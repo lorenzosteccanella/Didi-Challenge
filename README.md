@@ -18,6 +18,8 @@ catkin_make
 
 In order to launch the visualization you should refer to the launchPKG and you should download and play the rosbag from here: https://drive.google.com/file/d/0B3n4hbrsMGiZQ1c5M2wybGNIZjg/view?usp=sharing
 
+Launch the roslaunch comand and specify the pat on your rosbag folder: roslaunch launchPKG display_rosbag_rviz.launch rosbag_file:=/path/approach_1.bag 
+
 
 
 
